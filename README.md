@@ -1,1 +1,1 @@
-# end-to-end-nlp-sql-generator
+# End-to-End-MLP-SQL-Gen
