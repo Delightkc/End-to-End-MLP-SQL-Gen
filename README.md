@@ -1,1 +1,1 @@
-# End-to-End-MLP-SQL-Gen
+# End-to-End-NLP-SQL-Gen
